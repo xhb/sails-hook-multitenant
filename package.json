@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      "github:xhb/sails-hook-multitenant",
+      "/Users/xhb/Code/tui/plusale_backend"
+    ]
+  ],
+  "_from": "github:xhb/sails-hook-multitenant",
+  "_id": "sails-hook-multitenant@github:xhb/sails-hook-multitenant#b05641ddb1a9a2495b4ec871b9acb2cb4eb03910",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/sails-hook-multitenant",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:xhb/sails-hook-multitenant",
+    "rawSpec": "github:xhb/sails-hook-multitenant",
+    "saveSpec": "github:xhb/sails-hook-multitenant",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:xhb/sails-hook-multitenant#b05641ddb1a9a2495b4ec871b9acb2cb4eb03910",
+  "_spec": "github:xhb/sails-hook-multitenant",
+  "_where": "/Users/xhb/Code/tui/plusale_backend",
+  "author": {
+    "name": "Angelo Calvo Alfaro",
+    "email": "angelo.calvoa@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/acalvoa/sails-hook-multitenant/issues"
+  },
+  "description": "A multi tenancy ORM hook to transform Waterline ORM into Multitenant ORM for Sails.js 1.X",
+  "devDependencies": {
+    "eslint": ">=4.18.2",
+    "lodash": ">=4.17.13",
+    "sails": "^1.0.0-46",
+    "waterline": "^0.13.4"
+  },
+  "homepage": "https://github.com/acalvoa/sails-hook-multitenant#readme",
+  "keywords": [
+    "Sails.js",
+    "Waterline",
+    "Nodejs",
+    "ORM",
+    "Multitenant",
+    "Multitenancy"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "sails-hook-multitenant",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acalvoa/sails-hook-multitenant.git"
+  },
+  "sails": {
+    "isHook": true
+  },
+  "version": "0.6.2"
+}
